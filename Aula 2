@@ -42,3 +42,43 @@ fun main() {
                                                                                    
                                                                                                                                                  
 }
+fun main() {
+    
+    var nome = "Hebert"
+    var idade = 17
+    var cidade = "São Paulo"
+    
+    var nome2 = "Auan"
+    var idade2 = 24
+    var cidade2 = "Santa Catarina"
+    
+    println("O meu nome é $nome, eu tenho $idade anos e moro em $cidade")
+    println("O meu nome é $nome2, eu tenho $idade2 anos e moro em $cidade2")
+    /*
+    //Exercício - Faça um diálogo de no mínimo 15 linha, nele deve conter,
+    // os nomes de quem estão falando de forma concatenada usando variáveis
+    // 
+    // 
+      */
+    println(" $nome:Olá $nome2")
+    println(" Olá $nome, como que vai os seus empreendimento")
+    println("está indo muito bem,$nome2")
+    println("Que bom,$nome que seus empreendementos estão indo bem")
+    println(" Querendo conversar com vc $nome")
+    println(" Sobre qual assunto em particular")
+    println(" Sobre sua empresa da BMW")
+    println(" Assim o que está interessado")
+    println(" Eu estou interessado na nova BMW GS 1250R")                                                      
+    println(" Assim já eu tinha esquecido de ter avisado")                                          
+    println(" Não tem ploblema meu amigo")
+    println(" Qual a cor que vc gostaria e o ano?")
+    println(" Estou pensando em comprar uma preta a 2023")
+    println(" $nome:Ei $nome gostaria de saber quando está custando")
+    println(" $nome: consigo fazer no precinho 134.500,00")
+    println(" $nome2: Qual ficaria se o pagamento for a vista")
+    println(" Meu amigo eu consigo fazer a 129.000.00")
+    println (" Perfeito Hebert teria como comprar a moto amanhã")
+    println(" Já se quiser da um pulinho aqui hoje será bem vindo")
+    println(" $nome,só vou resolver uma coisinha e já vou direto para da uma olhadinha na moto")                                                                                                                                                                                                                                                                                                                      
+    
+}
