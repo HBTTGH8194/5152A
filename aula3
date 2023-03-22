@@ -1,0 +1,123 @@
+fun main() {
+  
+    //Operações
+    
+    // = -> adição
+    // - -> subtração
+    // / -> divisão
+    // * -> multiplicação
+    // % -> módulo
+    /* 
+    var halls = 6
+    var freegells = 6
+    
+    println(halls % freegells)
+    */
+    
+    // EXERCÍCIO - Faça uma calculadora que contenha cada um dos operadores matemáticas
+    // como resultado do cálculo de duas variáveis (contendo resultado para +, -, /, 8 e %),
+    // contendo também uma interface simples e bonita :)
+    // 
+    // 
+    // 
+    /* 
+println("||*********minha Calculadora yee 0 *********||")
+println("||******************************************||")
+println("||******************************************||")
+println("||*************************   **************||")
+println("||*************************   **************||")
+println("||****           ******           **********||")
+println("||*************************   **************||")
+println("||*************************   **************||")
+println("||******************************************||")
+println("||******************************************||")
+println("||******************************************||")
+println("||****   ***********************   *********||")
+println("||****   ***********************   *********||")
+println("||****                             *********||")
+println("||******************************************||")
+println("||******************************************||")
+
+println("motos=123004 avião=764008")
+
+var motos = 1234.0
+var avião = 7648.0
+    
+    
+println("${(motos + avião)}    -ADIÇÃO")
+println("${(motos - avião)}    -SUBTRAÇÃO")
+println("${(motos / avião)}    -DIVISÃO")
+println("${(motos * avião)}    -MULTIPLICAÇÃO")
+println("${(motos % avião)}    -MÓDULO")
+*/
+
+// Operadores Relacionais
+// 
+// == -> igual a..
+// != -> diferente de...
+// !  -> negando valor
+// >  -> maior que...
+// <  -> menor que...
+// >= -> maior ou igual a...
+//
+//  
+// ++ -> adiciona 1 a um valor
+// -- -> subtrai 1 de um valor 
+// += -> adiciona um determinado valor a um valor
+// -= -> subtrai um determinado valor de um valor
+/*
+var clauldetty = 50
+var josias = 30
+var berennice = 90
+var bernnadetthy = 80
+    
+    
+println(clauldetty)
+clauldetty++    
+println(clauldetty)    
+println("")   
+println(josias)    
+josias--    
+println(josias)
+println("")
+println(berennice)
+berennice += clauldetty
+println(berennice)
+println("")
+println(bernnadetthy)
+bernnadetthy -= josias
+println(bernnadetthy)
+*/
+    
+// condições if..else
+// 
+// estrutura:
+// 
+// if(condição){
+// ação
+// }else{
+// ação
+// }
+/*
+var interruptor = true
+    
+if(interruptor == true){
+     println("luz acesa")
+}else{
+    println("luz apagada")}
+}
+*/
+var fome = true
+
+if (fome){
+      println("Alimente-se!")
+}else{
+    println("Alimente-se")
+}
+
+
+
+
+
+
+}   
