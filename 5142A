@@ -8,3 +8,94 @@ fun main() {
          
 }
 //++++++++++++++++++++++++++++++++++++++++++++++++
+
+Solutions
+Docs
+Community
+Teach
+Play
+
+1.8.10
+JVM
+Program arguments
+Copy link
+Share code
+Run
+/**
+ * You can edit, run, and share this code.
+ * play.kotlinlang.org
+ */
+fun main() {
+ var senha = "azeitona"
+
+ if(senha == "azeitona"){
+    println("Bem-Vindo Sr Stark")
+ }else{
+     println("Senha Incorreta, Tente Novamente")
+ 
+ }
+ 
+  // SOCORRAM ME SUBI NO ONIBUS EM MARROCOS
+  
+  // if..else composto
+  // 
+  // com o if..else composto, somos permitidos, comparar mais de duas condições (o simples
+  // e o else), através do 'else if'
+  // 
+  // 
+  /*
+  var coracoes = 0
+  if(coracoes >= 5){
+      println("Você está muito saudável! Parabéns")
+  }else if (coracoes == 4){
+      println("Você ta de boa")
+  }else if(coracoes == 3){
+      println("Cuidado com a sua saúde, durma melhor")
+  }else if(coracoes == 2){
+      println("Vá se tratar, você não está bem...")
+  }else if(coracoes == 1){
+      println("Estado crítico!!!!!")
+  }else{
+      println("Novo reforço do Vasco")
+      
+  }
+  */
+/**
+ * You can edit, run, and share this code.
+ * play.kotlinlang.org
+ */
+fun main() {
+ var senha = "azeitona"
+​
+ if(senha == "azeitona"){
+    println("Bem-Vindo Sr Stark")
+ }else{
+     println("Senha Incorreta, Tente Novamente")
+ 
+ }
+ 
+  // SOCORRAM ME SUBI NO ONIBUS EM MARROCOS
+  
+  // if..else composto
+  // 
+  // com o if..else composto, somos permitidos, comparar mais de duas condições (o simples
+  // e o else), através do 'else if'
+  // 
+  // 
+  /*
+  var coracoes = 0
+  if(coracoes >= 5){
+      println("Você está muito saudável! Parabéns")
+  }else if (coracoes == 4){
+      println("Você ta de boa")
+  }else if(coracoes == 3){
+      println("Cuidado com a sua saúde, durma melhor")
+  }else if(coracoes == 2){
+      println("Vá se tratar, você não está bem...")
+  }else if(coracoes == 1){
+      println("Estado crítico!!!!!")
+  }else{
+      println("Novo reforço do Vasco")
+      
+  }
+  */
