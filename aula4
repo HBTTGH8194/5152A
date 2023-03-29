@@ -1,0 +1,22 @@
+1-
+var hebert = 25
+var auan = 25
+if (hebert > auan){
+    println(hebert)
+}else if(hebert < auan){
+    println(auan)
+}else{
+    println("$hebert e $auan são iguais")}
+*/
+/*
+    2-
+    var kroos =
+    if(kroos > 0){
+       println("Número positivo") 
+    }else if(kroos < 0){
+       println("Número negativo")
+    }else{
+       println("Número igaul a zero")
+
+*/
+
