@@ -79,3 +79,16 @@ when(mes){
     12 -> {println("Seoul")}
     else -> {println("Acordou")}
 }
+
+
+
+
+var diaSemana = "Sábado"
+
+when(diaSemana){
+    "Segunda-feira", "Terça-feira", "Quarta-feira", "Quinta-feira", 
+    "Sexta-feira" -> {println("Dia útil, seja produtivo!")}
+    "Sábado", "Domingo" ->  {println("Final de semana")}
+    else -> {println("Dia inexistente, dia inútil")}
+}   
+ }
