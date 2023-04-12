@@ -79,7 +79,7 @@ when(mes){
     12 -> {println("Seoul")}
     else -> {println("Acordou")}
 }
-
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
 
@@ -92,3 +92,66 @@ when(diaSemana){
     else -> {println("Dia inexistente, dia inútil")}
 }   
  }
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+fun main() {
+/*
+// Laços de repetição - loops
+// 
+// repeat - repita
+// while - enquanto
+// do..while - faça..enquanto
+// for - para
+// 
+// repeat - repita
+// vai repetir uma determinada ação uma determinada quantidade de vezes
+// 
+// Estrutura do repeat
+// 
+// repeat(númeroVezes)
+// ação
+// }
+// 
+repeat(8){
+    println("Isso é um teste, testando, testando")
+}
+
+    
+var motos = 0  
+
+repeat(9){
+   println(motos ++)
+
+}
+
+    
+    
+// Laço whilw - enquanto
+// 
+// enquanto uma condição for verdadeira, uma determinada ação estará sendo excutada
+// Estrutura do while
+// 
+// while(condição){
+// ação
+// }
+*/
+    
+var bateria = 100
+while(bateria > -1){
+    println(bateria--)
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
