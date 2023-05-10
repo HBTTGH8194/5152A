@@ -396,3 +396,38 @@ class Pessoa {
     
 }
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+/**
+ * You can edit, run, and share this code.
+ * play.kotlinlang.org
+ */
+fun main() {
+    println("Hello, world!!!")
+var pessoa3()
+var animal1 = Animal("Cachorro", "Pinscher", 7, "chinelo", "grande")   
+var animal2 = Animal("Gato", "")    
+var animal3 = Animal("cavalo") 
+var animal4 = Animal("abelhas") 
+var animal5 = Animal("chinchila") 
+var animal6 = Animal("cacatuas") 
+var animal7 = Animal("gado") 
+var animal8 = Animal("ovelha") 
+var animal9 = Animal("calopsita") 
+var animal10 = Animal("camundongo") 
+var animal11 = Animal("canário-do-reino") 
+var animal12 = Animal("porquinho-da-índia") 
+var animal13 = Animal(" ratos") 
+var animal14 = Animal("galinhas") 
+var animal15 = Animal("porco") 
+var animal16 = Animal("peixe", "boi", "23", "gramíneas", "rios da região do Atlântico") 
+var animal17 = Animal("peru", "Holandesa Branca", "4", "quirela de milho", " florestas") 
+var animal18 = Animal("periquito", "australiano", "7", "sementes", "campos") 
+var animal19 = Animal(" pardal", "Petronia", "2", "insetos", "florestas") 
+var animal20 = Animal(" hamsters", "russo anão", "5", "frutas", "natureza") 
+
+println("${animal1.raca}, ${animal1.idade}, ${animal1.dieta}, ${animal1.habitat}")
+
+class Animal(var especie: String, //atributos que todo animazin deve ter
+             var raca: String, 
+             var idade: Int, 
+      ///////////////////////////////////////////////////////////////////
