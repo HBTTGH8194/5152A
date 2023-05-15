@@ -430,4 +430,35 @@ println("${animal1.raca}, ${animal1.idade}, ${animal1.dieta}, ${animal1.habitat}
 class Animal(var especie: String, //atributos que todo animazin deve ter
              var raca: String, 
              var idade: Int, 
-      ///////////////////////////////////////////////////////////////////
+      //////////////////////////////////////////////////////////////////////////////////////////////////////////
+      
+      
+fun comer(alimento: String){
+    println("especie comendo $alimento, yumm")
+}
+
+fun correr(velocidade: Double, lugar: String){
+    println("$especie correndo em uma velocidade de $velocidade km/h no $lugar")
+}
+var animalzin = Animal("cachorro", "Shih-tzu", 8, "Chinelo", "pequeno")
+
+animalzin.comer("animazin.dieta")
+
+var animazao = Animal("Golfinho", "Boto", 50, "sardinha", "pequeno")
+
+animazao.correr(120.0,"Acre")
+
+}   
+class Animal(var especie: String, //atributos que todo animazin deve ter
+             var raca: String, 
+             var idade: Int, 
+             var dieta: String
+             var porte: String){
+             
+// Estrutura de um método:
+// fun (nomeDoParametro: tipoDoParametro){
+// ação
+// }
+
+}
+////////////////////////////////////////////////////////////////////////////////////////////////////
